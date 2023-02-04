@@ -1,0 +1,140 @@
+.container{
+    width: 50%;
+    height: 480px;
+    margin: auto;
+    background-color: wheat;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+
+audio{
+    margin-top: 20px;
+    margin-left: 60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 80%;
+    border-radius: 5px;
+}
+
+.buttonsSong{
+    background-color: darkorange;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 90%;
+    border-radius: 5px;
+}
+
+#buttonPlay{
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    margin-right: 100px;
+    margin-left: 90px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline;
+}
+
+#buttonPause{
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    margin-right: 100px;
+    margin-left: 90px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline;
+}
+
+#buttonRepeat{
+    display: inline;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    margin-right: 100px;
+    margin-left: 90px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#buttonShuffle{
+    display: inline;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    margin-right: 100px;
+    margin-left: 90px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.songs{
+    background-color: green;
+    width: 90%;
+    height: 80px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+#song1{
+
+    background-color: black;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 55px;
+    color: white;
+    cursor: pointer;
+}
+#song2{
+
+    background-color: black;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+    color: white;
+    cursor: pointer;
+}
+#song3{
+
+    background-color: black;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+#song4{
+    background-color: black;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+    color: white;
+    cursor: pointer;
+}
